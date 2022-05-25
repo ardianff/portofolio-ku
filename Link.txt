@@ -1,0 +1,2 @@
+- Netlify : https://porto-afm.netlify.app/ 
+- Repo Github : https://github.com/ardianff/portofolio-ku.git
