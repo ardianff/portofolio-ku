@@ -46,6 +46,14 @@ a .nav-link {
   font-size: 20px;
   font-family: "Nunito", sans-serif;
 }
-.title-name {
+.navbar-brand.title-name {
   font-family: "Neucha", cursive;
+  color: rgb(60, 245, 97);
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+h1.display-4 {
+  font-family: "Tiro Gurmukhi", serif;
 }
