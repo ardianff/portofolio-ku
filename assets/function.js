@@ -4,11 +4,7 @@ function myPorto() {
 function submitConfirm() {
   alert("Your Data Has Been Saved");
 }
-window.onload = function () {
-  var welcome;
-  welcome = "Welcome on My Web Portfolio";
-  alert(welcome);
-};
+
 function showTime() {
   var tanggal = new Date();
   var jam = tanggal.getHours();

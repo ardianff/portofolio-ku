@@ -57,3 +57,41 @@ h2 {
 h1.display-4 {
   font-family: "Tiro Gurmukhi", serif;
 }
+
+nav.header-icon {
+  height: 100%;
+  width: 90px;
+  text-align: center;
+}
+
+nav.header-icon ul {
+  list-style: none;
+}
+
+nav.header-icon ul li {
+  float: left;
+  margin: 3px 4px;
+}
+
+nav.header-icon ul li a {
+  text-decoration: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  top: 15px;
+  display: block;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  font: 600 16px/50px "Open Sans", sans-serif;
+}
+
+nav.header-icon ul li .icon {
+  background-color: black;
+}
+
+nav.header-icon ul li a:hover {
+  color: #384648;
+  opacity: 0.9;
+}
